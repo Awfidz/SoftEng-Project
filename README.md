@@ -13,11 +13,11 @@ Untuk menjalankan program ini, diperlukan node.js yang terpasang dalam device da
 Next.js, beserta file di directory lokal. Saat seluruh requirements sudah terpenuhi, kode bisa dijalankan dengan mengetik command
 "npm run dev" di root folder
 
-# Bonus yang dikerjakan
+-> Bonus yang dikerjakan
 Deployment : https://vercel.com/awfidzs-projects/my-app
 Kreativitas
 
-# Bonus yang tidak dikerjakan
+-> Bonus yang tidak dikerjakan
 Tampilan yang responsif
 Penggunaan basis data
 
