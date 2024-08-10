@@ -43,7 +43,7 @@ const Home = () => {
         </section>
 
         <div className="social-links p-10 text-center flex justify-center gap-6">
-          <a href="https://instagram.com/awafi.dz" target="_blank" rel="noopener noreferrer">
+          <a href="https://instagram.com/awafi.dz" target="_blank">
             <img src="https://cdn-icons-png.flaticon.com/512/733/733558.png" alt="Instagram" className="w-8 h-8" />
           </a>
           <a href="mailto:awafi670@gmail.com" target="_blank">
