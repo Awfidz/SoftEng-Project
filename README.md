@@ -1,4 +1,4 @@
-Hi 👋, Namaku Ahmad Wafi Idzharulhaqq
+Hi 👋, Namaku Ahmad Wafi Idzharulhaqq,
 Seorang Spartan yang sedang berusaha mengupgrade kualitas diri
 
 NIM     : 19623250
